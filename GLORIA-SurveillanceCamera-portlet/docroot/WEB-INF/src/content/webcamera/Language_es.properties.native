@@ -1,0 +1,54 @@
+
+button-cancel=Cancelar
+button-refresh=Actualizar
+button-submit=Aceptar
+button-take_image=Tomar Image
+
+msg-config=Por favor, configure una cámara
+msg-error-not-available-server=El servidor no se encuentra disponible en estos momentos, por favor inténtalo un poco más tarde.
+msg-error-not-communication-device=Fallo de comunicación con el dispositivo
+msg-error-not-mount=Por favor, seleccione una montura
+msg-error-not-observatory=Por favor, selecciones un observatorio
+msg-error-not-save=No se ha podido guardar
+msg-error-not-send-command=Fallo al enviar el comando
+msg-error-not-telescope=Por favor, selecciones un telescopio
+msg-error=Error
+msg-success=Guardado
+
+
+label-brightness=Brillo
+label-continuous-mode=Modo continuo
+label-contrast=Contraste
+label-coordinates-webcam=Coordenadas de la webcam
+label-coordinates=Coordenadas
+label-default-dec-coordinates=+0:0:0
+label-default-ra-coordinates=0:0:0
+label-error=Error
+label-exposure-time=Exposición
+label-gain=Ganancia
+label-getting-parameters=Obteniendo configuración...
+label-height=Alto
+label-loading=Cargando...
+label-none=Ninguno
+label-only-ccd-camera=Sólo para cámaras CCD
+label-select-a-ccd-camera=Selecciones una cámara CCD
+label-select-a-surveillance-camera=Seleccione una cámara de vigilancia
+label-select-a-telescope=Seleccione un telescopio
+label-select-an-observatory=Seleccione un observatorio
+label-select-ccd-camera=Seleccionar cámara CCD
+label-select-observatory=Seleccionar observatorio
+label-select-surveillance-camera=Seleccionar cámara de vigilancia
+label-select-telescope=Seleccionar telescopio
+label-setting-parameters=Definiendo configuración...
+label-status=Estado
+label-stop=Parado
+label-take_image=Botón de tomar imagen
+label-url-webcam=URL de la webcam
+label-url=URL
+label-width=ancho
+legend-control-panel=Panel de Control
+legend-status=Estado
+
+
+tab-general-settings=Ajustes generales
+tab-visibility-options=Opciones de visibilidad
