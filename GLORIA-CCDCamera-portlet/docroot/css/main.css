@@ -1,0 +1,38 @@
+.resizable { 
+	background: #BBCCFF; 
+	height: 100px; 
+	margin: 30px; 
+	overflow: hidden; 
+	width: 100px; 
+}
+
+.outline_CamImg { 
+	background: #EEE; 
+	border: 1px solid #999; 
+	margin: 1em 0; 
+	padding: 5px;  
+}
+
+#GLORIAwebcam { 
+	height: 240px; 
+	width: 320px; 
+}
+
+.infoField {
+	border-width: 1px
+}
+
+.status-field {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;	
+}
+
+.status-field-ok {
+	color:blue;	
+}
+
+.status-field-error {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;
+	color:red;	
+}

@@ -1,0 +1,1 @@
+<liferay-ui:message key='Error_not_services' />
