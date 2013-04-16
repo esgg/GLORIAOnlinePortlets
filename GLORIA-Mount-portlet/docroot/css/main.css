@@ -1,0 +1,147 @@
+.container-view-control {
+	display: block;
+	min-height: 75px;
+}
+
+.arrowUp-button {
+    background-image: url(../images/arrow2_up.png); 
+    background-size: 100%;
+    background-repeat:no-repeat;
+ 	background-color: transparent;
+    display:block;
+    width: 22px;
+    height: 22px;
+	border: 0px transparent;
+}
+
+.arrowUp-button:hover { 
+	background-image: url(../images/arrow2_up_hover.png);
+	background-size: 100%;
+    background-repeat:no-repeat;
+ 	background-color: transparent;
+	border: 0px transparent;
+}
+
+.status-span {
+	display: block;	
+}
+
+.raLabel, .decLabel, .eraLabel, .infolabel, .infolabel2, .modelabel, .status-label {
+	font-family:"Times New Roman",Georgia,Serif;
+	font-weight: bold;
+	margin:1px;
+}
+
+.raLabel, .decLabel, .eraLabel {
+	margin-right: 29px;
+}
+
+.infolabel2 {
+	width:100px;
+	display: block;
+	color: #00F;
+	margin-left: 5px;
+}
+
+.infoField {
+	border-width: 1px
+} 	
+ 	
+.coordField {
+	border-width: 1px
+} 	
+ 	
+fieldset, .aui-form fieldset {
+	margin-bottom: 0px;
+}
+
+aui-field-wrapper-content {
+	margin-bottom: 0px;
+}
+
+.aui-field-inline .aui-field-content, .aui-field-row .aui-field-content {
+	margin-right: 1px;
+}
+
+#container_control {
+       margin: 0 auto;
+       width:auto;
+       height:auto;
+}
+
+.arrow_control, .speed_control{
+       width:auto;
+       height:auto;
+       /* background-color:#EFEFEF;
+       border-style:solid; 
+       border-width:1px;
+       border-color:#000000; */
+       float:left;
+       padding:0;
+}
+
+.arrow_control{
+       margin:0 5px 0 0;
+}
+
+.speed_control{
+       margin:0 5px 0 0;
+}
+
+.field-block {
+	display: block;
+	vertical-align: middle;
+	margin-top: 1px;
+}
+
+#epoch {
+       margin: 0 auto;
+       width:auto;
+       height:auto;
+}
+
+.eraLabel {
+	margin-right: 7px
+}
+
+.modelabel{
+	margin-right: 13px
+}
+
+.status-field {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;	
+}
+
+.status-field-ok {
+	color:blue;	
+}
+
+.status-field-error {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;
+	color:red;	
+}
+
+.aui-field-labels-inline .aui-field-label {
+	margin: 0 0 0 0;
+}
+.aui-field-labels-inline .aui-field-label, .aui-field-labels-inline .aui-field-input-text {
+	width: 30%;
+}
+.aui-field-labels-inline .aui-field-hint {
+	display: block;
+	float: none;
+	clear: both;
+	margin-left: 30%;
+}
+
+.next-level {
+    margin-left: 10px;
+    float: left;
+    width: 30%;
+}
+
+.up-level {
+    margin-left: -10px;
+}
