@@ -1,0 +1,49 @@
+/* CSS for focuser portlet */
+.status-field {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;	
+}
+
+.status-field-ok {
+	color:blue;	
+	font-size: 12px;
+}
+
+.status-field-error {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;
+	color:red;
+	font-size: 12px;	
+}
+.status-label {
+	
+	font-family:"Times New Roman",Georgia,Serif;
+	font-weight: bold;
+	font-size: 14px;
+	margin:1px;
+}
+.status-span {
+	display: block;	
+	margin:5px
+}
+.aui-field-labels-inline .aui-field-label {
+	margin: 0 0 0 0;
+}
+.aui-field-labels-inline .aui-field-label, .aui-field-labels-inline .aui-field-input-text {
+	width: 30%;
+}
+.aui-field-labels-inline .aui-field-hint {
+	float: none;
+	clear: both;
+	margin-left: 30%;
+}
+
+.next-level {
+    margin-left: 10px;
+    float: left;
+    width: 30%;
+}
+
+.up-level {
+    margin-left: -10px;
+}
