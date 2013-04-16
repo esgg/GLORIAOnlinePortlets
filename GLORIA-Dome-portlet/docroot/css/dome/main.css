@@ -1,0 +1,61 @@
+#DomeControl {
+	text-align: center;
+}
+
+.resizable { 
+	background: #BBCCFF; 
+	height: 100px; 
+	margin: 30px; 
+	overflow: hidden; 
+	width: 100px; 
+}
+
+.outline_DCimg { 
+	background: #EEE; 
+	border: 1px solid #999; 
+	margin: 1em 10px; 
+	padding: 5px;  
+}
+
+#GLORIA_DC { 
+	height: 240px; 
+	width: 320px; 
+}
+
+.status-field {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;	
+}
+
+.status-field-ok {
+	color:blue;	
+}
+
+.status-field-error {
+	font-family:"Times New Roman",Georgia,Serif;
+	margin:1px;
+	color:red;	
+}
+
+.aui-field-labels-inline .aui-field-label {
+	margin: 0 0 0 0;
+}
+.aui-field-labels-inline .aui-field-label, .aui-field-labels-inline .aui-field-input-text {
+	width: 30%;
+}
+.aui-field-labels-inline .aui-field-hint {
+	display: block;
+	float: none;
+	clear: both;
+	margin-left: 30%;
+}
+
+.next-level {
+    margin-left: 10px;
+    float: left;
+    width: 30%;
+}
+
+.up-level {
+    margin-left: -10px;
+}
